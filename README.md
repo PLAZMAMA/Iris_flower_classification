@@ -1,2 +1,2 @@
 # Iris_flower_classification
-classification of 3 types of iris flower using k nearest neighbors
+classification of 3 types of iris flower using k nearest neighbors and a basic UI to allow prediction of the flower type given its sepal length in cm, sepal width in cm, petal length in cm and petal width in cm
